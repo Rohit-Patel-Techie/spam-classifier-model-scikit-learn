@@ -63,7 +63,7 @@ This project uses the **Enron Spam Dataset**.
 
 ### 1️⃣ Clone the Repository  
 - git clone https://github.com/Rohit-Patel-Techie/spam-classifier-model-scikit-learn.git
-- cd email-spam-detection
+- cd spam-classifier-model-scikit-learn/spam-classifier
 
 
 ### 2️⃣ Create Virtual Environment (Optional but Recommended)  
